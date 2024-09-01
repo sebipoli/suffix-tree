@@ -1,0 +1,2 @@
+# suffix-tree
+data structures
