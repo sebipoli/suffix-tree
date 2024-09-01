@@ -1,5 +1,4 @@
 # suffix-tree
--data structures
 # Cerința 1
 
 - Salvez în `k` indexul literei curente.
